@@ -25,3 +25,5 @@ hs_err_pid*
 #  vscode setting files
 .vscode/
 /target/
+
+/src/main/java/core/Configs.java
